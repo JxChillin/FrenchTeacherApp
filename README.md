@@ -1,2 +1,2 @@
-# FrenchTeacherApp
-This app will play the sound of someone saying the color that your have clicked on, in the french language.
+<h1>FrenchTeacherApp</h1>
+<em>This app requires the installation and setup of <strong>Android Studio</strong> before launch</em> <br>
